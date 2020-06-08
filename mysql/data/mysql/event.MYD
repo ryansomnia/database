@@ -1,0 +1,21 @@
+2020-05-12 19:35:39 0 [Note] Reading of all Master_info entries succeeded
+2020-05-12 19:35:39 0 [Note] Added new Master_info '' to hash table
+2020-05-12 19:35:39 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-05-12 19:38:11 9 [ERROR] mysqld.exe: Index for table '.\mysql\user.MYI' is corrupt; try to repair it
+2020-05-12 19:38:11 9 [ERROR] Got error 126 when reading table '.\mysql\user'
+2020-05-12 19:38:11 9 [ERROR] mysqld.exe: Index for table 'user' is corrupt; try to repair it
+ackets)
+2019-12-03 21:24:18 80 [Warning] Aborted connection 80 to db: 'gppk' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:31:29 81 [Warning] Aborted connection 81 to db: 'gppk' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:40:43 96 [Warning] Aborted connection 96 to db: 'gppk' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:51:38 97 [Warning] Aborted connection 97 to db: 'gppk' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:54:51 108 [Warning] Aborted connection 108 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:57:38 109 [Warning] Aborted connection 109 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 21:57:43 110 [Warning] Aborted connection 110 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:00:32 111 [Warning] Aborted connection 111 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:02:24 112 [Warning] Aborted connection 112 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:02:29 113 [Warning] Aborted connection 113 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:04:53 114 [Warning] Aborted connection 114 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:13:45 115 [Warning] Aborted connection 115 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2019-12-03 22:20:58 122 [Warning] Aborted connection 122 to db: 'library' user: 'root' host: 'localhost' (Got an error reading communication packets)

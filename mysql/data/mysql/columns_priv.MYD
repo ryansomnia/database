@@ -1,0 +1,8 @@
+2020-03-18 14:31:35 0 [Note] Reading of all Master_info entries succeeded
+2020-03-18 14:31:35 0 [Note] Added new Master_info '' to hash table
+2020-03-18 14:31:35 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-03-18 14:31:37 9 [ERROR] mysqld.exe: Index for table '.\mysql\user.MYI' is corrupt; try to repair it
+2020-03-18 14:31:37 9 [ERROR] Got error 126 when reading table '.\mysql\user'
+2020-03-18 14:31:37 9 [ERROR] mysqld.exe: Index for table 'user' is corrupt; try to repair it
+2020-03-18 14:56:14 154 [Warning] Aborted connection 154 to db: 'gppk' user: 'root' host: 'localhost' (Got an error reading communication packets)

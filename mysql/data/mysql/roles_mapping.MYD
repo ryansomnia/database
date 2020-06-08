@@ -1,0 +1,8 @@
+2019-11-23  8:28:26 0 [ERROR] mysqld.exe: Table 'user' is marked as crashed and should be repaired
+2019-11-23  8:28:26 0 [Note] Reading of all Master_info entries succeeded
+2019-11-23  8:28:26 0 [Note] Added new Master_info '' to hash table
+2019-11-23  8:28:26 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-11-23  8:33:33 9 [ERROR] mysqld.exe: Index for table '.\mysql\user.MYI' is corrupt; try to repair it
+2019-11-23  8:33:33 9 [ERROR] Got error 126 when reading table '.\mysql\user'
+2019-11-23  8:33:33 9 [ERROR] mysqld.exe: Index for table 'user' is corrupt; try to repair it
